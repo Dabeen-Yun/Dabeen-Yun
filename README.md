@@ -16,6 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeen-Yun&theme=ocean_dark&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 수상 / 활동 경력
+- 2023: 대학생 창작 모빌리티 경진대회 자율주행 성능부문 신인 1위 베스트루키상
 - 2023: SEA:ME Summer Hackathon (차량 인포테인먼트 개발) 동상
 - 2023: 한양대학교 ERICA 제 11회 SW 창업 아이디어톤 경진대회 1위 대상 한양대학교 총장상 수상
 - 2023: 한양대학교 자작자동차학회 Baqu4 제어팀 팀장
