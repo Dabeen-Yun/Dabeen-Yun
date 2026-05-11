@@ -12,9 +12,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabeen-Yun&theme=ocean_dark&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏆 수상 / 활동 경력
 - 2023: 대학생 창작 모빌리티 경진대회 자율주행 성능부문 신인 1위 베스트루키상
 - 2023: SEA:ME Summer Hackathon (차량 인포테인먼트 개발) 동상
