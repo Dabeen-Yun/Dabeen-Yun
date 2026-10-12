@@ -24,9 +24,9 @@
 - 2022: 한양대학교 ERICA 제 4회 SW 창업 메이커톤 1위 대상
 - 2022: 한양대학교 ERICA 포트폴리오 경진대회 3위
 
-
+<!--
 ## 💻 badge
-![Dabeen-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabeen-Yun&show_icons=true&theme=radical)
+![Dabeen-Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabeen-Yun&show_icons=true&theme=radical) -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=사용자 이름)](https://solved.ac/사용자 이름) -->
 
 
