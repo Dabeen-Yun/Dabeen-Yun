@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
 ## 🏆 수상 / 활동 경력
 - 2023: 대학생 창작 모빌리티 경진대회 자율주행 성능부문 신인 1위 베스트루키상
